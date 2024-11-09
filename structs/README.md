@@ -1,0 +1,1 @@
+This code is basically to deep dive in concept of structs.
