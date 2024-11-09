@@ -1,0 +1,1 @@
+This directory explores package and multiple package functionality of Golang
