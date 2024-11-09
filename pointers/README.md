@@ -1,0 +1,1 @@
+This directory explores pointers and usage of pointers in Golang

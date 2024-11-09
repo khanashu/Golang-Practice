@@ -1,0 +1,1 @@
+This directory explores Error Handling and File Hnadling in Golang.
